@@ -1,8 +1,8 @@
 import time
 import smtplib
 try:
-    gmail_user='dbhavale6767@gmail.com'
-    gmail_password='dbhavale4831'
+    gmail_user='temp'
+    gmail_password='temp_pass'
 
     send_from = gmail_user
     to=['dbhavale4831@outlook.com']
